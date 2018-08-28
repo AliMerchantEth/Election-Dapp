@@ -1,4 +1,4 @@
-FYI:   Before this class I had zero experience in software development (I am CPA) and couldn't even tell you what a IDE was.  It has been a long three months but it was well worth it.  Learned a lot and would like to thank Consensys Academy for letting me be part of this new world, this is just the beginning for me..
+FYI:   Before this class I had zero experience in software development (I am CPA) and couldn't even tell you what an IDE was.  It has been a long three months but it was well worth it.  Learned a lot and would like to thank Consensys Academy for letting me be part of this new world, this is just the beginning for me.  Oh, forgot to give a shoutout to CryptoZombies and DappUniveristy, couldn't have learned any of this without the countless hours I spent on your tutorials.  
 
 
 Create your own Election dapp on the Ethereum blockchain.  
