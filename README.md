@@ -1,3 +1,4 @@
+FYI:  I am a CPA, never coded a program in my life until now and I had no experience in software development experience before this class.  
 Create your own Election dapp on the Ethereum blockchain.  
 
 
